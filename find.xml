@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'and-nd-firebase-1.00-starting-point'" />
+    <option name="defaultScopeName" value="Project 'and-nd-firebase-1.00-starting-point'" />
+    <option name="SEARCH_SCOPE" value="Project 'and-nd-firebase-1.00-starting-point'" />
   </component>
 </application>
